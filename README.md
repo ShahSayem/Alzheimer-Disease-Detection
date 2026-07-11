@@ -9,9 +9,13 @@ A comprehensive deep learning repository focusing on multi-class classification 
 The exploration is systematically divided into two main tracks based on the target datasets:
 
 ├── 1A-Alzheimer_CNN.ipynb # Custom PyTorch CNN on Dataset 1 (Baseline & Augmented)
+|
 ├── 1B-Alzheimer_MobileNet.ipynb # Transfer learning using PyTorch MobileNetV2 on Dataset 1
+|
 ├── 2A-OASIS_Alzheimer_CNN.ipynb # Custom Keras/TensorFlow CNN on Dataset 2
+|
 ├── 2B-OASIS_Alzheimer_ViT_16.ipynb# Transfer learning using PyTorch Vision Transformer (ViT-B/16) on Dataset 2
+|
 └── 2C-OASIS_Alzheimer_ResNet_18.ipynb # Transfer learning using PyTorch ResNet-18 on Dataset 2
 
 ## 📊 Dataset Profiles
